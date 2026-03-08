@@ -218,6 +218,12 @@ h1 {
   color: var(--muted);
 }
 
+.card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .tags {
   display: flex;
   flex-wrap: wrap;
